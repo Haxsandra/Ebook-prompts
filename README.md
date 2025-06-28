@@ -1,6 +1,6 @@
 PROJETO DE EBOOK CRIADO POR I.A.
 
-ℹ️ NOTE: Este é o repositório desenvolvido durante o curso na plataforma da DIO.me.
+ℹ️ OBSERVAÇÃO: Este é o repositório desenvolvido durante o curso na plataforma da DIO.me.
 Projeto com o objetivo de gerar um ebook utilizando as facilidades das ferramentas de IA. Segue os prompts abaixo:
 
 Prompts feitos no ChatGPT：

@@ -3,6 +3,11 @@ PROJETO DE EBOOK CRIADO POR I.A.
 ℹ️ OBSERVAÇÃO: Este é o repositório desenvolvido durante o curso na plataforma da DIO.me.
 Projeto com o objetivo de gerar um ebook utilizando as facilidades das ferramentas de IA. Segue os prompts abaixo:
 
+Tecnologias utilizadas no projeto
+- ChatGPT
+- Copilot       
+- Power Point
+
 Prompts feitos no ChatGPT：
 
 Título:	Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos
@@ -28,3 +33,5 @@ ebook gerado durante as aulas na plataforma DIO.me.
 
 🛠️ Instruções de execução
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição como power point, ou libreoffice , ou indesign para diagramação.
+
+Clique aqui para visualizar o ebook gerado: [Ebook CSS - Animações] (https://1drv.ms/b/c/68d43918b9487a29/EdF_3ZWCSRlPlEf9Pb_28DUB2bLiLbNPk_8PN21bVRGXCg?e=vOgwRH).

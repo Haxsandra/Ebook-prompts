@@ -1,5 +1,3 @@
-<iframe src="https://acadcruzeirodosul-my.sharepoint.com/personal/haxsandra_silva_cs_cruzeirodosul_edu_br/_layouts/15/Doc.aspx?sourcedoc={92e5519c-156e-4421-821d-90fa6914b1dd}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">Este é um apresentação do <a target="_blank" href="https://office.com">Microsoft Office</a> incorporado, da plataforma <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-
 PROJETO DE EBOOK CRIADO POR I.A.
 
 ℹ️ NOTE: Este é o repositório desenvolvido durante o curso na plataforma da DIO.me.

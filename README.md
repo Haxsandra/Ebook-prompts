@@ -27,11 +27,11 @@ Conteúdo gerado via ChatGPT
 Imagens geradas via Copilot
 Edição de documentos via Power Point.
 
-📚 Materiais
+📚 Materiais: 
 Imagens utilizadas em assets
 ebook gerado durante as aulas na plataforma DIO.me.                                  
 
-🛠️ Instruções de execução
+🛠️ Instruções de execução: 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição como power point, ou libreoffice , ou indesign para diagramação.
 
 Clique aqui para visualizar o ebook gerado: [Ebook CSS - Animações] (https://1drv.ms/b/c/68d43918b9487a29/EdF_3ZWCSRlPlEf9Pb_28DUB2bLiLbNPk_8PN21bVRGXCg?e=vOgwRH).
